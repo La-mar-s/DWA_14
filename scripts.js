@@ -8,7 +8,7 @@ import {
 
 const MAX_NUMBER = 15;
 const MIN_NUMBER = -5;
-const STEP_AMOUNT = 5;
+const STEP_AMOUNT = 1;
 
 class TallyCounter extends LitElement {
   constructor() {
