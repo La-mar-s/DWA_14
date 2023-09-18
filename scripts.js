@@ -1,4 +1,10 @@
-import { LitElement, html, css, property } from "lit-element";
+// import { LitElement, html, css, property } from "lit-element";
+import {
+  LitElement,
+  html,
+  css,
+  // property,
+} from "https://cdn.jsdelivr.net/gh/lit/dist@2/core/lit-core.min.js";
 
 const MAX_NUMBER = 15;
 const MIN_NUMBER = -5;
